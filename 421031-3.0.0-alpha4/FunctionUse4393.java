@@ -1,0 +1,6 @@
+import org.apache.hadoop.service.ServiceStateModel;
+public class FunctionUse4393 {
+public void funcUse() {
+ServiceStateModel servicestatemodel = new ServiceStateModel();
+}
+}
